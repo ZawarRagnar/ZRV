@@ -6,5 +6,5 @@ except:
 import requests
 os.system('git pull')
 os.system('clear')
-from zawar import zawar
+from ZRV import zawar
 zawar()
